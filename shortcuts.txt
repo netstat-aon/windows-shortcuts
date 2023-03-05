@@ -1,0 +1,36 @@
+clipboard history - 
+one can view all the contents that one has copied in the past using the shortcut
+windows + v
+
+switching between windows -
+done easily using alt + tab.
+or you can use windows + 1/2/3... depending upon the icon order on the task bar.
+
+splitting your screen for two different windows -
+windows + -> 
+and then remove your finger on the windows key.
+
+closing the active window - 
+alt + f4.
+
+opening up the task bar - 
+ctrl + shift + esc
+
+minimize all the windows - 
+windows + d
+
+deleting an entire word - 
+done using ctrl + backspace 
+or 
+ctrl + del
+depends on your cursors position.
+
+shortcut to lock your computer - 
+windows + L
+
+
+
+
+
+
+
